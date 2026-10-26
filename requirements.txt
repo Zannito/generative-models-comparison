@@ -1,0 +1,12 @@
+# Core deep-learning framework
+# For CUDA support, select the compatible PyTorch build at https://pytorch.org/get-started/locally/
+torch
+torchvision
+
+# Numerical computing and plotting
+numpy
+matplotlib
+
+# Notebook environment
+jupyter
+notebook
